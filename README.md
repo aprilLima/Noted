@@ -37,7 +37,7 @@ Survey questions asks participants about their cohabitual shopping habits and so
 
 These are the results for each question: 
 
-<img alt="Question 1" src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="380" height="227"> <img src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="380" height="227">
+<img alt="Question 1" src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="428" height="256"> <img src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="428" height="256">
 
 
 ### Further research and analysis
