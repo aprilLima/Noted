@@ -38,12 +38,12 @@ Survey questions asks participants about their cohabitual shopping habits and so
 These are the results for each question: 
 
 
-<img alt="Question 1" src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="428" height="256"> <img src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="428" height="256">
-<img alt="Question 1" src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="428" height="256"> <img src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="428" height="256">
-<img alt="Question 1" src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="428" height="256"> <img src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="428" height="256">
-<img alt="Question 1" src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="428" height="256"> <img src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="428" height="256">
-<img alt="Question 1" src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="428" height="256"> <img src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="428" height="256">
-<img alt="Question 1" src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="428" height="256"> <img src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="428" height="256">
+<img alt="Question 1" src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="428" height="256"> <img src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q2.jpg" width="428" height="256">
+<img alt="Question 1" src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q3.jpg" width="428" height="256"> <img src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q4.jpg" width="428" height="256">
+<img alt="Question 1" src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q5.jpg" width="428" height="256"> <img src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q6.jpg" width="428" height="256">
+<img alt="Question 1" src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q7.jpg" width="428" height="256"> <img src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q8.jpg" width="428" height="256">
+<img alt="Question 1" src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q9.jpg" width="428" height="256"> <img src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q10.jpg" width="428" height="256">
+<img alt="Question 1" src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q11.jpg" width="428" height="256"> <img src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q12.jpg" width="428" height="256">
 
 
 
