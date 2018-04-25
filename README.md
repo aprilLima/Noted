@@ -39,6 +39,8 @@ These are the results for each question:
 
 <img src="https://github.com/favicon.ico" width="48">
 
+<img src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg" width="333" height="199">
+
 ![Question 1 results](/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg =333x199) ![Question 1 results](/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg) ![Question 1 results](/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg) ![Question 1 results](/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg) ![Question 1 results](/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg)
 
 ### Further research and analysis
