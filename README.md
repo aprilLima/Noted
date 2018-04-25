@@ -32,6 +32,12 @@ _Organize for the home together._
 
 ### Quantitative survey
 
+I conducted a small survey and had about 10 people participate. 
+Survey questions asks participants about their cohabitual shopping habits and some cohabitual living habits. 
+
+These are the results for each question: 
+![Question 1 results](/'1 - Finding the problem'/'a - Quantitative survey'/q1.jpg)
+
 ### Further research and analysis
 
 
