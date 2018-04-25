@@ -29,5 +29,26 @@ _Organize for the home together._
 
 
 ## Finding the problem
----
 
+### Quantitative survey
+
+### Further research and analysis
+
+
+## Formulize a problem statement
+
+## Create a user persona
+
+## Formulize a hypothesis statement
+
+## Initial sitemapping
+
+## Initial wireframes
+
+## Feedback
+
+## Revised sitemapping
+
+## Revised wireframes
+
+## Final prototype
