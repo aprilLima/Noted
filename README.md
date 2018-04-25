@@ -8,8 +8,8 @@ _Organize for the home together._
   - I then conducted the UX design process; designing, getting feedback, then designing with that feedback.
   - Final result is a fully designed, working prototype. 
 
-# Process / Table of contents
-1. [Finding the problem](#finding-the-problem)
+## Process / Table of contents
+1. [1. Finding the problem](#finding-the-problem)
     
     a. [Quantitative survey](#quantitative-survey)
     
@@ -25,4 +25,6 @@ _Organize for the home together._
 10. Final prototypes
 
 
-1. ## Finding the problem
+### 1. Finding the problem
+---
+
