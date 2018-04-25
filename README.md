@@ -9,7 +9,7 @@ _Organize for the home together._
   - Final result is a fully designed, working prototype. 
 
 ## Process / Table of contents
-1. [1. Finding the problem](#finding-the-problem)
+1. [Finding the problem](#finding-the-problem)
     
     a. [Quantitative survey](#quantitative-survey)
     
@@ -25,6 +25,6 @@ _Organize for the home together._
 10. Final prototypes
 
 
-### 1. Finding the problem
+### Finding the problem (1)
 ---
 
