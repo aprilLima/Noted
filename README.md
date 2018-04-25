@@ -8,7 +8,7 @@ _Organize for the home together._
   - I then conducted the UX design process; designing, getting feedback, then designing with that feedback.
   - Final result is a fully designed, working prototype. 
 
-_Note: Original presentation for this project is done on Google Slides. I created this repository for the sake of having it on my GitHub.
+_Note: Original presentation for this project is done on Google Slides. I created this repository for the sake of having the assets on my GitHub.
 If you wish to see the Google Slides version, [click here]()._
 
 ## Process / Table of contents
