@@ -36,7 +36,8 @@ I conducted a small survey and had about 10 people participate.
 Survey questions asks participants about their cohabitual shopping habits and some cohabitual living habits. 
 
 These are the results for each question: 
-![Question 1 results](/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg)
+
+![Question 1 results](/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/q1.jpg =100x)
 
 ### Further research and analysis
 
