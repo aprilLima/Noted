@@ -10,8 +10,8 @@ _Organize for the home together._
 
 ## Process / Table of contents
 1. [Finding the problem](#finding-the-problem)
-  a. [Quantitative survey](#quantitative-survey)
-  b. [Further research and analysis](#further-research-and-analysis)
+    a. [Quantitative survey](#quantitative-survey)
+    b. [Further research and analysis](#further-research-and-analysis)
 2. Formulize a problem statement
 3. Create user personas
 4. Formulize a hypothesis statement
