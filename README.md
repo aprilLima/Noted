@@ -57,6 +57,10 @@ After conducting the survey, I compiled a survey results analysis:
 <img alt="Survey results summary" src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/surveyanalysis.jpg">
 
 
+
+---
+---
+
 ## Formulize a problem statement
 
 ## Create a user persona
