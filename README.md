@@ -17,7 +17,7 @@ If you wish to see the Google Slides version, [click here]()._
     a. [Quantitative survey](#quantitative-survey)
     
     b. [Further research and analysis](#further-research-and-analysis)
-2. Formulize a problem statement
+2. [Formulize a problem statement](#formulize-a-problem-statement)
 3. Create user personas
 4. Formulize a hypothesis statement
 5. Initial sitemapping
