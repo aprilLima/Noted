@@ -8,6 +8,9 @@ _Organize for the home together._
   - I then conducted the UX design process; designing, getting feedback, then designing with that feedback.
   - Final result is a fully designed, working prototype. 
 
+_Note: Original presentation for this project is done on Google Slides. I created this repository for the sake of having the assets on my GitHub.
+If you wish to see the Google Slides version, [click here]()._
+
 ## Process / Table of contents
 1. [Finding the problem](#finding-the-problem)
     
@@ -53,6 +56,10 @@ After conducting the survey, I compiled a survey results analysis:
 
 <img alt="Survey results summary" src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/surveyanalysis.jpg">
 
+
+
+---
+---
 
 ## Formulize a problem statement
 
