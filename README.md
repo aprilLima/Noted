@@ -56,12 +56,56 @@ After conducting the survey, I compiled a survey results analysis:
 
 <img alt="Survey results summary" src="/1%20-%20Finding%20the%20Problem/a%20-%20Quantitative%20Survey/surveyanalysis.jpg">
 
+* Most want to buy things for their room/home. `~ 75%`
+* Most forget what to buy when grocery shopping → buys more than needed. `~ 75% - 87%`
+* Most do not use shopping lists. `~ 60%`
+ *`~ 33%` think it’s a hassle. 
+* Most have housemates do shopping for them. `~ 87%`
+* More than half forget to do chores. `~ 60%`
+* Chores mostly done by housemates.
+* `~ 33%` of their housemates forget. 
 
+---
+
+
+Along with conducting the survey, I've also looked into a few sources to serve as resources for basing problem statements. 
+
+I've found some of these statistics online with their respective source: 
+
+* <img alt="2015 chart of grocery shopping list usage in the United States by generation" src="/1%20-%20Finding%20the%20Problem/b%20-%20Further%20Research%20and%20Analysis/ListUsage.png">
+
+  [statista.com link to the graph](https://www.statista.com/statistics/490730/us-consumers-grocery-shopping-list-usage-generation/)
+ 
+ * <img alt="2015 chart of grocery shopping list usage in the United States by generation" src="/1%20-%20Finding%20the%20Problem/b%20-%20Further%20Research%20and%20Analysis/DigitalVsHandwritten.png">
+
+  [mmn.com article for the above pie chart](https://www.mnn.com/green-tech/gadgets-electronics/blogs/your-grocery-list-handwritten-digital
+)
+
+---
+
+I've also looked into other existing apps, and did a competitive analysis. Through competitive analysis, I look at features existing, similar apps have and compare with the app I'm designing.  
+
+<img alt="2015 chart of grocery shopping list usage in the United States by generation" src="/1%20-%20Finding%20the%20Problem/b%20-%20Further%20Research%20and%20Analysis/CompetitiveAnalysis.jpg">
 
 ---
 ---
+
 
 ## Formulize a problem statement
+
+After conducting my survey and doing some further research, I formulated a problem statement addressing people living and shopping for their co-habitants: 
+
+**Problem statement:**
+
+> **Families and roommates need an easy way to have digital collaborative lists because they want to better organize what’s bought and what’s done for their home.**
+
+This problem statement serves as a guide and reminder for designing the app. It serves to let me know that my app will be a solution to this problem.
+
+
+
+---
+---
+
 
 ## Create a user persona
 
