@@ -128,7 +128,29 @@ I've created two user personas for this project:
 
 ## Formulize a hypothesis statement
 
+After creating the problem statement and user personas, I've then formulated the hypothesis statement: 
+
+**Hypothesis statement:**
+
+> **By creating a multimodal lightweight app for families and roommates, they can easily collaborate lists to better organize for their home. We know this to be true when the app is used for people’s lists and notes.**
+
+Hypothesis statements test assumptions about the product, and has an expectation that the product will try to solve while addressing to the target demographic (in this case, the target demographic is families and roommates living in the same home).  
+
+
+
+---
+---
+
+
 ## Initial sitemapping
+
+I then planned out the sitemap for the product, which visually shows what pages or components the app will have for the end user. 
+
+<img alt="Initial sitemap for Noted" src="/5%20-%20Initial%20Sitemapping/Noted%20-%20Sitemap.png">
+
+
+---
+---
 
 ## Initial wireframes
 
