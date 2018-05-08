@@ -18,7 +18,7 @@ If you wish to see the Google Slides version, [click here]()._
     
     b. [Further research and analysis](#further-research-and-analysis)
 2. [Formulize a problem statement](#formulize-a-problem-statement)
-3. Create user personas
+3. [Create user personas](#create-a-user-persona)
 4. Formulize a hypothesis statement
 5. Initial sitemapping
 6. Initial wireframes
@@ -72,11 +72,11 @@ Along with conducting the survey, I've also looked into a few sources to serve a
 
 I've found some of these statistics online with their respective source: 
 
-* <img alt="2015 chart of grocery shopping list usage in the United States by generation" src="/1%20-%20Finding%20the%20Problem/b%20-%20Further%20Research%20and%20Analysis/ListUsage.png">
+<img alt="2015 chart of grocery shopping list usage in the United States by generation" src="/1%20-%20Finding%20the%20Problem/b%20-%20Further%20Research%20and%20Analysis/ListUsage.png">
 
   [statista.com link to the graph](https://www.statista.com/statistics/490730/us-consumers-grocery-shopping-list-usage-generation/)
  
- * <img alt="2015 chart of grocery shopping list usage in the United States by generation" src="/1%20-%20Finding%20the%20Problem/b%20-%20Further%20Research%20and%20Analysis/DigitalVsHandwritten.png">
+ <img alt="2015 chart of grocery shopping list usage in the United States by generation" src="/1%20-%20Finding%20the%20Problem/b%20-%20Further%20Research%20and%20Analysis/DigitalVsHandwritten.png">
 
   [mmn.com article for the above pie chart](https://www.mnn.com/green-tech/gadgets-electronics/blogs/your-grocery-list-handwritten-digital
 )
@@ -108,6 +108,23 @@ This problem statement serves as a guide and reminder for designing the app. It 
 
 
 ## Create a user persona
+
+Along with the problem statement to guide me on how to design an app solution for the problem, I've also created user personas. 
+
+A user persona is a fictional being you create that would be a representation of your target demographic. Keeping your user personas in mind while designing the app helps remember who you're making the app for. 
+
+I've created two user personas for this project: 
+
+<img alt="User persona profile of Emma Wu" src="/3%20-%20User%20Personas/Project%203%20-%20College%20student%20persona.jpg">
+
+ 
+<img alt="User persona profile of Gayle Mendoza" src="/3%20-%20User%20Personas/Project%203%20-%20Mom%20persona.jpg">
+
+
+
+---
+---
+
 
 ## Formulize a hypothesis statement
 
