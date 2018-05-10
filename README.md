@@ -21,11 +21,11 @@ If you wish to see the Google Slides version, [click here]()._
 3. [Create user personas](#create-a-user-persona)
 4. [Formulize a hypothesis statement](#formulize-a-hypothesis-statement)
 5. [Initial sitemapping](#initial-sitemapping)
-6. Initial wireframes
-7. Feedback
-8. Revised sitemapping
-9. Revised wireframes
-10. Final prototypes
+6. [Initial wireframes](#initial-wireframes)
+7. [Feedback](#feedback)
+8. [Revised sitemapping](#revised-sitemapping)
+9. [Revised wireframes](#revised-wireframes)
+10. [Final prototypes](#final-prototypes)
 
 ---
 ---
@@ -154,10 +154,35 @@ I then planned out the sitemap for the product, which visually shows what pages 
 
 ## Initial wireframes
 
+After the initial sitemapping, I've created the wireframes for each page. 
+
+Wireframes serve as a visual guide that show the basic skeletal structure of a webpage. There is no styling or aesthetics implemented; wireframes only show where the page's different elements would be. 
+
+![A nice wireframe showing a login page](/6%20-%20Initial%20Wireframes/Noted%20-%20Initial%20Wireframes-3.jpg) 
+![A nice wireframe showing a list of items](/6%20-%20Initial%20Wireframes/Noted%20-%20Initial%20Wireframes-6.jpg) 
+![A nice wireframe showing a list of people](/6%20-%20Initial%20Wireframes/Noted%20-%20Initial%20Wireframes-5.jpg)
+![A nice wireframe showing a list of lists](/6%20-%20Initial%20Wireframes/Noted%20-%20Initial%20Wireframes-8.jpg)
+
+The rest of the wireframes can be found [here](/6%20-%20Initial%20Wireframes)
+
+---
+---
+
+
 ## Feedback
+
+Feedback received from professor, class, and a few friends. 
+
+Most prevalent feedback points: 
+> “One kind of list instead of two kinds of lists would be simpler.” 
+
+> “Smartwatch view won’t fit all of this…”
+
+I took these into consideration to redo the app’s structure and wireframes, as shown in the next following steps.
+
 
 ## Revised sitemapping
 
 ## Revised wireframes
 
-## Final prototype
+## Final prototypes
