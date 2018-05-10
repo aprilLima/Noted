@@ -27,6 +27,8 @@ If you wish to see the Google Slides version, [click here]()._
 9. [Revised wireframes](#revised-wireframes)
 10. [Final prototypes](#final-prototypes)
 
+
+
 ---
 ---
 
@@ -65,6 +67,7 @@ After conducting the survey, I compiled a survey results analysis:
 * Chores mostly done by housemates.
 * `~ 33%` of their housemates forget. 
 
+
 ---
 
 
@@ -86,6 +89,7 @@ I've found some of these statistics online with their respective source:
 I've also looked into other existing apps, and did a competitive analysis. Through competitive analysis, I look at features existing, similar apps have and compare with the app I'm designing.  
 
 <img alt="2015 chart of grocery shopping list usage in the United States by generation" src="/1%20-%20Finding%20the%20Problem/b%20-%20Further%20Research%20and%20Analysis/CompetitiveAnalysis.jpg">
+
 
 ---
 ---
@@ -152,6 +156,7 @@ I then planned out the sitemap for the product, which visually shows what pages 
 ---
 ---
 
+
 ## Initial wireframes
 
 After the initial sitemapping, I've created the wireframes for each page. 
@@ -164,6 +169,7 @@ Wireframes serve as a visual guide that show the basic skeletal structure of a w
 ![A nice wireframe showing a list of lists](/6%20-%20Initial%20Wireframes/Noted%20-%20Initial%20Wireframes-8.jpg)
 
 The rest of the wireframes can be found [here](/6%20-%20Initial%20Wireframes)
+
 
 ---
 ---
@@ -181,8 +187,24 @@ Most prevalent feedback points:
 I took these into consideration to redo the app’s structure and wireframes, as shown in the next following steps.
 
 
+---
+---
+
+
 ## Revised sitemapping
 
+After receiving feedback, I revised the sitemap for the product so navigation is simpler. Instead of taking two types of lists into account, I've planned out the sitemap that would implement only one kind of list. 
+
+![Revised sitemap](/8%20-%20Revised%20Sitemapping/Noted%20-%20Sitemap%20revision.png)
+
+
+---
+---
+
+
 ## Revised wireframes
+
+
+
 
 ## Final prototypes
