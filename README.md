@@ -163,14 +163,21 @@ After the initial sitemapping, I've created the wireframes for each page.
 
 Wireframes serve as a visual guide that show the basic skeletal structure of a webpage. There is no styling or aesthetics implemented; wireframes only show where the page's different elements would be. 
 
+<<<<<<< HEAD
 _Note: Not all wireframes are displayed below; the rest of the wireframes can be found [here](/6%20-%20Initial%20Wireframes)_
 
+=======
+>>>>>>> e377ff30a6855c3a9599f6e542dc7fb0cf923cb5
 ![A nice wireframe showing a login page](/6%20-%20Initial%20Wireframes/Noted%20-%20Initial%20Wireframes-3.jpg) 
 ![A nice wireframe showing a list of items](/6%20-%20Initial%20Wireframes/Noted%20-%20Initial%20Wireframes-6.jpg) 
 ![A nice wireframe showing a list of people](/6%20-%20Initial%20Wireframes/Noted%20-%20Initial%20Wireframes-5.jpg)
 ![A nice wireframe showing a list of lists](/6%20-%20Initial%20Wireframes/Noted%20-%20Initial%20Wireframes-8.jpg)
 
+<<<<<<< HEAD
 
+=======
+The rest of the wireframes can be found [here](/6%20-%20Initial%20Wireframes)
+>>>>>>> e377ff30a6855c3a9599f6e542dc7fb0cf923cb5
 
 
 ---
