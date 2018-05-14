@@ -222,8 +222,25 @@ _Note: Not all wireframes are displayed below; the rest of the wireframes can be
 ![Smartwatch view prompting the user to select Voice or Text input to add an item for smartwatch view](/9%20-%20Revised%20Wireframes/midfidelityWireframeWatch3.png)
 
 
-
-
+---
+---
 
 
 ## Final prototypes
+
+After getting feedback from the professor and a few others, I had the OK to continue the project using these wireframes. 
+
+I had then applied the visual design for the app. With that, I had compiled a working, styled application prototype for both mobile/fridge view and smartwatch view. 
+
+Links to the prototypes can be found here: 
+
+- [Mobile/Fridge view](https://xd.adobe.com/view/174f95c6-a447-47a5-a40f-5bfe75f35459/)
+- [Smartawtch view](https://xd.adobe.com/view/1ea94b91-8bc6-4a8f-a3d3-d26705ae41ed/)
+
+
+
+Previews for the applied aesthetic for each respective view: 
+
+![Mobile and fridge view of the home page for the app](/10%20-%20Final%20Prototypes/Mobile%20and%20Fridge%20jpgs/Home%20–%202.jpg)
+![Smartwatch view of the home page for the app](/10%20-%20Final%20Prototypes/Smartwatch%20jpgs/Smartwatch%20-%20Home%20(default%20list)%20–%202.jpg)
+
