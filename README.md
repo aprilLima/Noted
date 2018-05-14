@@ -163,21 +163,13 @@ After the initial sitemapping, I've created the wireframes for each page.
 
 Wireframes serve as a visual guide that show the basic skeletal structure of a webpage. There is no styling or aesthetics implemented; wireframes only show where the page's different elements would be. 
 
-<<<<<<< HEAD
 _Note: Not all wireframes are displayed below; the rest of the wireframes can be found [here](/6%20-%20Initial%20Wireframes)_
 
-=======
->>>>>>> e377ff30a6855c3a9599f6e542dc7fb0cf923cb5
 ![A nice wireframe showing a login page](/6%20-%20Initial%20Wireframes/Noted%20-%20Initial%20Wireframes-3.jpg) 
 ![A nice wireframe showing a list of items](/6%20-%20Initial%20Wireframes/Noted%20-%20Initial%20Wireframes-6.jpg) 
 ![A nice wireframe showing a list of people](/6%20-%20Initial%20Wireframes/Noted%20-%20Initial%20Wireframes-5.jpg)
 ![A nice wireframe showing a list of lists](/6%20-%20Initial%20Wireframes/Noted%20-%20Initial%20Wireframes-8.jpg)
 
-<<<<<<< HEAD
-
-=======
-The rest of the wireframes can be found [here](/6%20-%20Initial%20Wireframes)
->>>>>>> e377ff30a6855c3a9599f6e542dc7fb0cf923cb5
 
 
 ---
@@ -212,6 +204,24 @@ After receiving feedback, I revised the sitemap for the product so navigation is
 
 
 ## Revised wireframes
+
+With the feedback and revised sitemapping into consideration, I revised the wireframes for the app's pages. Most pages underwent slight UI changes. 
+
+The following are some examples of the revised wireframes: 
+
+_Note: Not all wireframes are displayed below; the rest of the wireframes can be found [here](/9%20-%20Revised%20Wireframes_
+
+![Revised wireframe showing the main page, with some UI changes](/9%20-%20Revised%20Wireframes/midfidelityWireframe1.png)
+![Personal, editable profile page](/9%20-%20Revised%20Wireframes/midfidelityWireframe2.png)
+![Page showing the list of people allowed to collaborate on the respectve list](/9%20-%20Revised%20Wireframes/midfidelityWireframe3.png)
+![Page displaying a list of lists user has made on the app](/9%20-%20Revised%20Wireframes/midfidelityWireframe5.png)
+
+![Smartwatch view showing the main page](/9%20-%20Revised%20Wireframes/midfidelityWireframeWatch4.png =150x150)
+![Smartwatch view showing the main page when an item is selected](/9%20-%20Revised%20Wireframes/midfidelityWireframeWatch2.png)
+![Smartwatch view showing activity history for a list](/9%20-%20Revised%20Wireframes/midfidelityWireframeWatch1.png)
+![Smartwatch view prompting the user to select Voice or Text input to add an item for smartwatch view](/9%20-%20Revised%20Wireframes/midfidelityWireframeWatch3.png)
+
+
 
 
 
