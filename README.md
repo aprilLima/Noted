@@ -209,14 +209,14 @@ With the feedback and revised sitemapping into consideration, I revised the wire
 
 The following are some examples of the revised wireframes: 
 
-_Note: Not all wireframes are displayed below; the rest of the wireframes can be found [here](/9%20-%20Revised%20Wireframes_
+_Note: Not all wireframes are displayed below; the rest of the wireframes can be found [here](/9%20-%20Revised%20Wireframes)_
 
 ![Revised wireframe showing the main page, with some UI changes](/9%20-%20Revised%20Wireframes/midfidelityWireframe1.png)
 ![Personal, editable profile page](/9%20-%20Revised%20Wireframes/midfidelityWireframe2.png)
 ![Page showing the list of people allowed to collaborate on the respectve list](/9%20-%20Revised%20Wireframes/midfidelityWireframe3.png)
 ![Page displaying a list of lists user has made on the app](/9%20-%20Revised%20Wireframes/midfidelityWireframe5.png)
 
-![Smartwatch view showing the main page](/9%20-%20Revised%20Wireframes/midfidelityWireframeWatch4.png =150x150)
+![Smartwatch view showing the main page](/9%20-%20Revised%20Wireframes/midfidelityWireframeWatch4.png)
 ![Smartwatch view showing the main page when an item is selected](/9%20-%20Revised%20Wireframes/midfidelityWireframeWatch2.png)
 ![Smartwatch view showing activity history for a list](/9%20-%20Revised%20Wireframes/midfidelityWireframeWatch1.png)
 ![Smartwatch view prompting the user to select Voice or Text input to add an item for smartwatch view](/9%20-%20Revised%20Wireframes/midfidelityWireframeWatch3.png)
