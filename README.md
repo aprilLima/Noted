@@ -8,10 +8,8 @@ _Organize for the home together._
   - I then conducted the UX design process; designing, getting feedback, then designing with that feedback.
   - Final result is a fully designed, working prototype. 
 
-_Note: Original presentation for this project is done on Google Slides. I created this repository for the sake of having the assets on my GitHub.
-If you wish to see the Google Slides version, [click here]()._
 
-## Process / Table of contents
+## Table of contents and process
 1. [Finding the problem](#finding-the-problem)
     
     a. [Quantitative survey](#quantitative-survey)
@@ -37,6 +35,8 @@ If you wish to see the Google Slides version, [click here]()._
 
 ### Quantitative survey
 
+[back to top](#table-of-contents-and-process)
+
 I conducted a small survey and had about 10 people participate. 
 Survey questions asks participants about their cohabitual shopping habits and some cohabitual living habits. 
 
@@ -53,6 +53,8 @@ These are the results for each question:
 
 
 ### Further research and analysis
+
+[back to top](#table-of-contents-and-process)
 
 After conducting the survey, I compiled a survey results analysis: 
 
@@ -97,6 +99,8 @@ I've also looked into other existing apps, and did a competitive analysis. Throu
 
 ## Formulize a problem statement
 
+[back to top](#table-of-contents-and-process)
+
 After conducting my survey and doing some further research, I formulated a problem statement addressing people living and shopping for their co-habitants: 
 
 **Problem statement:**
@@ -112,6 +116,8 @@ This problem statement serves as a guide and reminder for designing the app. It 
 
 
 ## Create a user persona
+
+[back to top](#table-of-contents-and-process)
 
 Along with the problem statement to guide me on how to design an app solution for the problem, I've also created user personas. 
 
@@ -132,6 +138,8 @@ I've created two user personas for this project:
 
 ## Formulize a hypothesis statement
 
+[back to top](#table-of-contents-and-process)
+
 After creating the problem statement and user personas, I've then formulated the hypothesis statement: 
 
 **Hypothesis statement:**
@@ -148,6 +156,8 @@ Hypothesis statements test assumptions about the product, and has an expectation
 
 ## Initial sitemapping
 
+[back to top](#table-of-contents-and-process)
+
 I then planned out the sitemap for the product, which visually shows what pages or components the app will have for the end user. 
 
 <img alt="Initial sitemap for Noted" src="/5%20-%20Initial%20Sitemapping/Noted%20-%20Sitemap.png">
@@ -158,6 +168,8 @@ I then planned out the sitemap for the product, which visually shows what pages 
 
 
 ## Initial wireframes
+
+[back to top](#table-of-contents-and-process)
 
 After the initial sitemapping, I've created the wireframes for each page. 
 
@@ -178,6 +190,8 @@ _Note: Not all wireframes are displayed below; the rest of the wireframes can be
 
 ## Feedback
 
+[back to top](#table-of-contents-and-process)
+
 Feedback received from professor, class, and a few friends. 
 
 Most prevalent feedback points: 
@@ -194,6 +208,8 @@ I took these into consideration to redo the app’s structure and wireframes, as
 
 ## Revised sitemapping
 
+[back to top](#table-of-contents-and-process)
+
 After receiving feedback, I revised the sitemap for the product so navigation is simpler. Instead of taking two types of lists into account, I've planned out the sitemap that would implement only one kind of list. 
 
 ![Revised sitemap](/8%20-%20Revised%20Sitemapping/Noted%20-%20Sitemap%20revision.png)
@@ -204,6 +220,8 @@ After receiving feedback, I revised the sitemap for the product so navigation is
 
 
 ## Revised wireframes
+
+[back to top](#table-of-contents-and-process)
 
 With the feedback and revised sitemapping into consideration, I revised the wireframes for the app's pages. Most pages underwent slight UI changes. 
 
@@ -227,6 +245,8 @@ _Note: Not all wireframes are displayed below; the rest of the wireframes can be
 
 
 ## Final prototypes
+
+[back to top](#table-of-contents-and-process)
 
 After getting feedback from the professor and a few others, I had the OK to continue the project using these wireframes. 
 
